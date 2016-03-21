@@ -1,0 +1,18 @@
+.switch-class {
+  margin-bottom: 25px;
+}
+
+.switch-class-button {
+  background-color: #f58220;
+  padding: 7px;
+  border-radius: 4px;
+}
+
+.switch-class-button a {
+  color: #FFF;
+}
+
+.switch-class-button a:hover {
+  text-decoration: none;
+  color: #FFF;
+}
